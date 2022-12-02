@@ -1,7 +1,7 @@
 # seleniumProject
 
 ## Proposito del proyecto
-Este proyecto se realizo para realizar tests a la interfaz grafica del proyecto en ReactJS https://github.com/Matiarriete/proyecto-semana-6-frontend
+Este proyecto se realizo para realizar tests a la interfaz grafica del proyecto en ReactJS el cual se llama proyecto-semana-6-frontend
 
 ## Tecnologias utilizadas
 - Java
